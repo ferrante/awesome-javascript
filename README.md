@@ -123,6 +123,7 @@ A collection of awesome browser-side  JavaScript libraries, resources and shiny 
 * [knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript.
 * [spine](https://github.com/spine/spine) - Lightweight MVC library for building JavaScript applications.
 * [canjs](https://github.com/bitovi/canjs) - Can do JS, better, faster, easier.
+* [maria.js](http://peter.michaux.ca/maria/) - The real MVC. The Smalltalk MVC. The gang of four MVC.
 
 
 ## Templating Engines
